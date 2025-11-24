@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model Checkpoints & Logs (too large for git)
+checkpoints/
+logs/
+outputs/
+
+# PyTorch
+*.pth
+*.pt
+
+# TensorBoard
+events.out.tfevents.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credentials
+kaggle.json
+*.json.bak
+
+# Cache
+.cache/
+*.cache
+
+# HuggingFace cache
+.transformers_cache/
+transformers_cache/
+
+# Data (keep structure but ignore large files)
+# Uncomment if dataset is too large
+# archive/*.json
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/

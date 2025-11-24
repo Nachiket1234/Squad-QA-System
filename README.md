@@ -57,10 +57,14 @@ After fine-tuning on SQuAD v1.1:
 <div align="center">
 
 ### Interactive Web Interface
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3b3f4ba-a413-4355-9f32-906d9eb4138a" />
 
-![Demo Screenshot](assets/demo_screenshot.png)
 
-*Live demo showing the BERT QA system answering "What is the boiling point of water at sea level?" with 36.9% confidence*
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b34e22f9-6ef5-46ee-96b3-14b654013caf" />
+
+
+
+*Live demo showing the BERT QA system answering "What is the boiling point of water at sea level?"
 
 **Try it yourself:** Run `python app.py` or open `notebooks/06_deployment.ipynb`
 
